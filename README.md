@@ -1,232 +1,200 @@
+<!-- ================= HEADER BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Software%20Construction%20%26%20Development&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lab%20Work%20Repository&descSize=20&descAlignY=58" alt="Header Banner"/>
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zulqarnain+Mohi+Ud+Din+%F0%9F%91%8B;Roll+No%3A+2024-SE-07+%F0%9F%8E%93;Software+Engineering+Student+%F0%9F%92%BB;Building+Clean+%7C+Scalable+%7C+Maintainable+Code+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-Zulqarnain%20Mohi%20Ud%20Din-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Roll%20No-2024--SE--07-ff69b4?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Department-Software%20Engineering-00c853?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=statuspage&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Labs-In%20Progress-orange?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Code-red?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=zulqarnain-2024-SE-07&label=Repo%20Views&color=0e75b6&style=flat-square" alt="views"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎓 About This Repository
+
+> *"Good software isn't written — it's constructed, tested, and refined."* 🏗️
+
+Welcome! This repository is the home of all my **lab work** for the course **Software Construction & Development**. Every lab task, assignment, and practice exercise I complete throughout the semester will be uploaded here, organized lab by lab.
+
+<br>
+
+## 👨‍💻 Student & Instructor Details
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="assets/banner_animated.svg" width="100%" alt="Software Construction and Development Banner" />
-
-<br/><br/>
-
-<!-- Dynamic Status Badges -->
-[![Course](https://img.shields.io/badge/Course-Software%20Construction%20%26%20Development%20(Lab)-0284c7?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/)
-[![University](https://img.shields.io/badge/University-UAJK%20Muzaffarabad-1e3a8a?style=for-the-badge&logo=google-classroom&logoColor=white)](https://ajku.edu.pk/)
-[![Semester](https://img.shields.io/badge/Semester-Fall%202026%20(5th%20Sem)-059669?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/)
-[![Instructor](https://img.shields.io/badge/Instructor-Engr.%20Dr.%20Asma%20Javaid-7c3aed?style=for-the-badge&logo=pinboard&logoColor=white)](https://github.com/)
-
-<br/>
-
-[![Status](https://img.shields.io/badge/QOBE%20Status-Verified%20%26%20Ready-10b981?style=flat-square&logo=checkmarx&logoColor=white)](https://github.com/)
-[![Standard](https://img.shields.io/badge/Standard-UML%202.5-38bdf8?style=flat-square&logo=uml&logoColor=white)](https://github.com/)
-[![Docs](https://img.shields.io/badge/Documentation-Markdown%20%7C%20HTML%20%7C%20PDF-f59e0b?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/)
-[![Python](https://img.shields.io/badge/Scripts-Python%203.11-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/Academic%20License-UAJK%20DoSE-64748b?style=flat-square&logo=creative-commons&logoColor=white)](LICENSE)
-
-<br/>
-
-<!-- Animated Terminal Box -->
-<img src="assets/typing.svg" width="100%" alt="Animated Terminal Console" />
-
-<br/><br/>
-
-<!-- Animated Metrics Card -->
-<img src="assets/progress.svg" width="100%" alt="Lab Progress & Metrics" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧑‍🎓 Student</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7B93E&center=true&vCenter=true&width=300&lines=Zulqarnain+Mohi+Ud+Din" /><br>
+      <b>Roll No:</b> 2024-SE-07<br>
+      <b>Program:</b> Software Engineering
+    </td>
+    <td align="center" width="50%">
+      <h3>👩‍🏫 Lab Instructor</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E676&center=true&vCenter=true&width=300&lines=Engr.+Dr.+Asma+Javaid" /><br>
+      <b>Role:</b> Lab Instructor<br>
+      <b>Course:</b> Software Construction & Development
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## 🧭 Table of Contents
 
-## 📑 Table of Contents
+| # | Section |
+|---|---------|
+| 1 | [📚 Course Overview](#-course-overview) |
+| 2 | [🗂️ Repository Structure](#️-repository-structure) |
+| 3 | [🧪 Lab Index](#-lab-index) |
+| 4 | [🛠️ Tech Stack & Tools](#️-tech-stack--tools) |
+| 5 | [🚀 How to Run](#-how-to-run) |
+| 6 | [📈 Progress Tracker](#-progress-tracker) |
+| 7 | [📬 Connect With Me](#-connect-with-me) |
 
-- [🌟 Course Overview](#-course-overview)
-- [🏛️ Academic & Instruction Details](#️-academic--instruction-details)
-- [🗺️ Laboratory Roadmap](#️-laboratory-roadmap)
-- [🚀 Lab 01: Use Case Modeling & Requirement Analysis](#-lab-01-use-case-modeling--requirement-analysis)
-  - [Q1: Online Ticket Reservation System](#q1-online-ticket-reservation-system)
-  - [Q2: Credit Card Processing System (Case Study)](#q2-credit-card-processing-system-case-study)
-  - [Traceability & Relationship Highlights](#traceability--relationship-highlights)
-- [📂 Repository File Architecture](#-repository-file-architecture)
-- [⚙️ Setup, Execution & PDF Export](#️-setup-execution--pdf-export)
-- [📋 QOBE Submission Compliance](#-qobe-submission-compliance)
-- [📜 License & Academic Integrity](#-license--academic-integrity)
+<br>
 
----
+## 📚 Course Overview
 
-## 🌟 Course Overview
+**Software Construction & Development** focuses on turning designs into high-quality, working software. Topics covered in the labs include:
 
-**Software Construction & Development (SC&D)** focuses on the engineering principles, architectural patterns, design formalisms, and construction practices required to transform abstract software requirements into robust, maintainable, extensible, and high-performance software systems.
+- 🧱 **Coding Standards & Clean Code** — readable, consistent, maintainable code
+- 🔁 **Refactoring** — improving structure without changing behavior
+- 🧩 **Design Principles & Patterns** — SOLID, OOP, and common design patterns
+- 🧪 **Testing** — unit testing and debugging techniques
+- 🌿 **Version Control** — Git & GitHub workflows
+- 🔍 **Code Reviews & Documentation** — collaborating and communicating through code
 
-### Core Pillars
-1. **Architectural & Behavioral Modeling:** Detailed requirement engineering using standard UML 2.5 specifications.
-2. **Design Principles & Patterns:** Application of SOLID, DRY, KISS, and Gang of Four (GoF) design patterns.
-3. **Refactoring & Code Quality:** Identifying code smells, calculating software metrics, and optimizing legacy code.
-4. **Verification & Automation:** Test-Driven Development (TDD), unit testing frameworks, and continuous delivery pipelines.
+<br>
 
----
-
-## 🏛️ Academic & Instruction Details
-
-| Field | Detail |
-| :--- | :--- |
-| **Institution** | The University of Azad Jammu and Kashmir (UAJK), Muzaffarabad |
-| **Department** | Department of Software Engineering (DoSE) |
-| **Degree Program**| BS Software Engineering (5th Semester) |
-| **Course Title** | Software Construction & Development (Lab) |
-| **Instructor** | **Engr. Dr. Asma Javaid** |
-| **Semester** | Fall 2026 |
-| **Portal** | QOBE Assessment System |
-
----
-
-## 🗺️ Laboratory Roadmap
+## 🗂️ Repository Structure
 
 ```
-Semester Lab Sequence
-├── [x] Lab 01: Use Case Modeling & Requirement Engineering ─── (Completed & Verified)
-├── [ ] Lab 02: Domain Modeling & Robust Class Diagrams
-├── [ ] Lab 03: Dynamic Behavioral Modeling (Sequence & State Diagrams)
-├── [ ] Lab 04: Object-Oriented Design Principles (SOLID, DRY, Law of Demeter)
-├── [ ] Lab 05: Creational Design Patterns (Singleton, Factory, Builder)
-├── [ ] Lab 06: Structural Design Patterns (Adapter, Composite, Decorator)
-├── [ ] Lab 07: Behavioral Design Patterns (Observer, Strategy, State, Command)
-├── [ ] Lab 08: Code Smells, Metrics & Systematic Refactoring
-├── [ ] Lab 09: Automated Unit Testing & Test-Driven Development (TDD)
-└── [ ] Lab 10: Build Automation, Git Workflows & CI/CD Pipelines
+📦 Software-Construction-and-Development-Labs
+ ┣ 📂 Lab-01
+ ┃ ┣ 📜 source-code
+ ┃ ┗ 📄 report / screenshots
+ ┣ 📂 Lab-02
+ ┣ 📂 Lab-03
+ ┣ 📂 Lab-04
+ ┣ 📂 ...
+ ┗ 📄 README.md
 ```
 
----
+<br>
 
-## 🚀 Lab 01: Use Case Modeling & Requirement Analysis
+## 🧪 Lab Index
 
-> **Status:** `COMPLETED (100%)`  
-> **Documentation Files:** [`Lab_1_Solution.md`](Lab_1_Solution.md) • [`Lab_1_Solution.html`](Lab_1_Solution.html) • [`Lab 1 - Software Construction & Development.pdf`](Lab%201%20-%20Software%20Construction%20&%20Development.pdf)
+> ✏️ *Update this table as you upload each lab.*
 
-### Q1: Online Ticket Reservation System
-Develop an end-to-end Use Case model representing an enterprise ticket reservation system (transportation/events).
+| Lab | Topic | Status | Link |
+|:---:|-------|:------:|:----:|
+| 01 | Introduction & Environment Setup | ✅ Done | [📂 Open](./Lab-01) |
+| 02 | Coding Standards | ⏳ Pending | [📂 Open](./Lab-02) |
+| 03 | OOP Concepts | ⏳ Pending | [📂 Open](./Lab-03) |
+| 04 | Refactoring | ⏳ Pending | [📂 Open](./Lab-04) |
+| 05 | Design Patterns | ⏳ Pending | [📂 Open](./Lab-05) |
+| 06 | Unit Testing | ⏳ Pending | [📂 Open](./Lab-06) |
+| 07 | Git & GitHub Workflow | ⏳ Pending | [📂 Open](./Lab-07) |
+| ... | More coming soon 🚀 | 🔜 | — |
 
-* **Primary Actors:** Customer / Passenger, System Administrator
-* **Supporting Actors:** Payment Gateway, Notification Service (SMS/Email)
-* **Key Use Cases:** Search Trips, Select Seat(s), Book Ticket, Make Online Payment, Apply Promo Code, View E-Ticket, Cancel Reservation, Process Refund, Manage Routes.
-* **Stereotype Hierarchies:**
-  * `Book / Reserve Ticket` $\xrightarrow{\ll include\gg}$ `Select Seat(s)`
-  * `Book / Reserve Ticket` $\xrightarrow{\ll include\gg}$ `Make Online Payment`
-  * `Make Online Payment` $\xrightarrow{\ll include\gg}$ `Send Booking Confirmation`
-  * `Cancel Reservation` $\xrightarrow{\ll include\gg}$ `Process Refund Transaction`
-  * `Apply Promo Code / Discount` $\xrightarrow{\ll extend\gg}$ `Make Online Payment`
+<br>
 
-<div align="center">
-  <img src="q1_online_ticket_reservation_diagram.png" width="92%" alt="Q1 Use Case Diagram" />
-  <p><em>Figure 1.1: UML 2.5 Standard Diagram for Online Ticket Reservation System</em></p>
-</div>
+## 🛠️ Tech Stack & Tools
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,git,github,vscode,linux&perline=8" alt="Tech Stack"/>
+</p>
 
-### Q2: Credit Card Processing System (Case Study)
-Case study analysis of mall POS purchases, balance limits, card swiping, and receipt generation.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-* **Identified Actors:**
-  * **Customer:** Browses shop items, provides credit card, verifies statement, signs and returns receipt.
-  * **Vendor / Cashier:** Scans items, generates bill, swipes card, requests amount transaction, hands receipt to customer, archives signed slip.
-  * **Credit Card Machine / Reader (POS Terminal):** Hardware interface that captures magnetic/EMV data, communicates transaction packets, and prints statements.
-  * **Banking Network / Card Issuer Bank:** Backend system maintaining balance limits, validating limits, executing fund settlements, and updating balances.
-* **Key Use Cases:**
-  * `Select Item from Shop`, `Make Bill for Selected Item`, `Swipe / Insert Credit Card`, `Request Amount Transaction`
-  * `Process Card Transaction` $\xrightarrow{\ll include\gg}$ `Check & Verify Credit Balance Limit`
-  * `Process Card Transaction` $\xrightarrow{\ll include\gg}$ `Update Account Balance & Record Transaction`
-  * `Process Card Transaction` $\xrightarrow{\ll include\gg}$ `Print Balance Statement & Receipt`
-  * `Handle Declined Transaction` $\xrightarrow{\ll extend\gg}$ `Check & Verify Credit Balance Limit`
-  * `Sign & Return Receipt to Vendor`
+<br>
 
-<div align="center">
-  <img src="q2_credit_card_processing_diagram.png" width="92%" alt="Q2 Use Case Diagram" />
-  <p><em>Figure 2.1: UML 2.5 Standard Diagram for Credit Card Processing System</em></p>
-</div>
+## 🚀 How to Run
 
----
-
-### Traceability & Relationship Highlights
-
-| Case Study Requirement | Identified Actor(s) | Primary Use Case | Relationship |
-| :--- | :--- | :--- | :--- |
-| *Select item to be purchased from shop* | Customer | Select Item from Shop | Direct Association |
-| *Vendor should give a bill for selected item* | Vendor | Make Bill for Selected Item | Direct Association |
-| *Customer gives card to swap* | Customer, Vendor, Reader | Swipe / Insert Credit Card | Direct Association |
-| *Request for kind of amount transaction* | Vendor, Card Reader | Request Amount Transaction | `<<include>>` to Process |
-| *Required amount transaction done by reader* | Reader, Banking Network | Process Card Transaction | Core Orchestration |
-| *Maintain limitation of credit card balance* | Banking Network | Check & Verify Credit Balance Limit | `<<include>>` from Process |
-| *Current transaction process updated* | Banking Network | Update Account Balance | `<<include>>` from Process |
-| *Machine gives balance statement or receipt* | Card Reader, Vendor | Print Balance Statement & Receipt | `<<include>>` from Process |
-| *Vendor issue statement to customer* | Vendor, Customer | Print / Issue Statement | Direct Association |
-| *Customer puts signature and returns* | Customer, Vendor | Sign & Return Receipt to Vendor | Direct Association |
-
----
-
-## 📂 Repository File Architecture
-
-```
-e:/5th sem/SC&D/
-│
-├── 📂 assets/                                  # Animated SVG components for GitHub
-│   ├── 🖼️ banner_animated.svg                 # Glowing header banner
-│   ├── 💻 typing.svg                          # Terminal typing animation
-│   └── 📊 progress.svg                        # Animated metrics & lab status card
-│
-├── 📄 README.md                                # Modern animated repository presentation
-│
-├── 📘 Lab_1_Solution.md                        # Full academic markdown report with tables & specs
-├── 🌐 Lab_1_Solution.html                      # Standalone, print-ready HTML with base64 embedded diagrams
-├── 📑 Lab 1 - Software Construction & Development.pdf # Exported submission PDF for QOBE portal
-│
-├── 🎨 q1_online_ticket_reservation_diagram.png # 300 DPI high-resolution diagram (Q1)
-├── 🎨 q2_credit_card_processing_diagram.png    # 300 DPI high-resolution diagram (Q2)
-│
-├── 🐍 generate_diagrams.py                     # Python script to regenerate matplotlib diagrams
-└── 🐍 generate_html_report.py                  # Python script to compile standalone HTML report
-```
-
----
-
-## ⚙️ Setup, Execution & PDF Export
-
-### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/software-construction-development.git
-cd software-construction-development
+# 1️⃣ Clone the repository
+git clone https://github.com/<your-username>/<your-repo-name>.git
+
+# 2️⃣ Move into the repo
+cd <your-repo-name>
+
+# 3️⃣ Open a specific lab
+cd Lab-01
+
+# 4️⃣ Follow the instructions inside that lab's folder 🎯
 ```
 
-### 2. Regenerate High-Resolution Diagrams
-```bash
-python generate_diagrams.py
-```
+<br>
 
-### 3. Rebuild Standalone HTML Report
-```bash
-python generate_html_report.py
-```
+## 📈 Progress Tracker
 
-### 4. Export to PDF for QOBE
-1. Open [`Lab_1_Solution.html`](Lab_1_Solution.html) in any modern browser (Google Chrome, Microsoft Edge, Firefox).
-2. Press `Ctrl + P` (or `Cmd + P` on macOS).
-3. Set **Destination** to `Save as PDF`.
-4. Ensure **Background Graphics** is checked.
-5. Click **Save** to generate a clean PDF identical to [`Lab 1 - Software Construction & Development.pdf`](Lab%201%20-%20Software%20Construction%20&%20Development.pdf).
+<p align="center">
+  <img src="https://progress-bar.dev/10/?title=Labs%20Completed&width=400&color=00d9ff" alt="progress"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
 
-## 📋 QOBE Submission Compliance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-* [x] **Timely Submission:** Completed ahead of deadline.
-* [x] **Platform Integrity:** Ready for direct upload to QOBE portal.
-* [x] **Standard Notation:** Conforms to OMG UML 2.5 standards.
-* [x] **Originality:** 100% verified unique work with full traceability matrix.
+> 🔧 Replace `<your-username>` with your actual GitHub username to activate the stats above.
 
----
+<br>
 
-## 📜 License & Academic Integrity
+## 🙏 Acknowledgements
 
-This repository is maintained for academic coursework in the **Department of Software Engineering, The University of Azad Jammu and Kashmir (UAJK)**. All source models and documentation adhere to university academic standards.
+A heartfelt thanks to my lab instructor, **Engr. Dr. Asma Javaid**, for her valuable guidance, support, and for inspiring me to write better software. 🌟
 
-<br/>
+<br>
 
-<div align="center">
-  <sub>Constructed with ❤️ for <strong>Software Construction & Development (Lab)</strong> • UAJK Muzaffarabad • Fall 2026</sub>
-</div>
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/<your-username>"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF4081&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90;Don't+forget+to+star+this+repo+%F0%9F%8C%9F;Keep+Coding.+Keep+Building.+%F0%9F%92%AA" alt="Footer typing"/>
+</p>
+
+<p align="center">
+  <b>Made with ❤️ by Zulqarnain Mohi Ud Din | 2024-SE-07</b>
+</p>
+
+<!-- ================= FOOTER BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" alt="Footer Banner"/>
+</p>
